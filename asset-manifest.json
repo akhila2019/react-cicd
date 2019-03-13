@@ -1,0 +1,14 @@
+{
+  "main.css": "/react-cicd/static/css/main.6cac6a36.chunk.css",
+  "main.js": "/react-cicd/static/js/main.60b157d8.chunk.js",
+  "main.js.map": "/react-cicd/static/js/main.60b157d8.chunk.js.map",
+  "runtime~main.js": "/react-cicd/static/js/runtime~main.6490f029.js",
+  "runtime~main.js.map": "/react-cicd/static/js/runtime~main.6490f029.js.map",
+  "static/js/2.8f71a45e.chunk.js": "/react-cicd/static/js/2.8f71a45e.chunk.js",
+  "static/js/2.8f71a45e.chunk.js.map": "/react-cicd/static/js/2.8f71a45e.chunk.js.map",
+  "index.html": "/react-cicd/index.html",
+  "precache-manifest.140ec0b309ea5c075f3dc3fe2c31ff21.js": "/react-cicd/precache-manifest.140ec0b309ea5c075f3dc3fe2c31ff21.js",
+  "service-worker.js": "/react-cicd/service-worker.js",
+  "static/css/main.6cac6a36.chunk.css.map": "/react-cicd/static/css/main.6cac6a36.chunk.css.map",
+  "static/media/logo.svg": "/react-cicd/static/media/logo.5d5d9eef.svg"
+}
